@@ -38,7 +38,7 @@ Repository of algorithms and data structures, by building basic implementations 
 * Sort By Selection
 * Ack, MergeSort!
 
-----
+---
 
 ## Testing
 
