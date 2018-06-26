@@ -2,7 +2,7 @@
 
 Repository of algorithms and data structures, by building basic implementations along with test cases in Javascript (ES2015+)
 
---
+---
 
 ## Syllabus
 
@@ -38,7 +38,7 @@ Repository of algorithms and data structures, by building basic implementations 
 * Sort By Selection
 * Ack, MergeSort!
 
---
+----
 
 ## Testing
 
@@ -54,6 +54,8 @@ Now, run the individual test cases by pointing jest to the project folders.
 jest anagrams/test.js --watch
 jest fizzbuzz
 ```
+
+---
 
 ## Contact
 
