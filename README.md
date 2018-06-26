@@ -1,8 +1,6 @@
 # Algorithms & Data Structures in Javascript
 
-Repository of algorithms and data structures, by building basic implementations along with test cases in Javascript (ES2015+)
-
----
+Repository of algorithms and data structures, by building basic implementations along with test cases in Javascript (ES2015+).
 
 ## Syllabus
 
@@ -38,8 +36,6 @@ Repository of algorithms and data structures, by building basic implementations 
 * Sort By Selection
 * Ack, MergeSort!
 
----
-
 ## Testing
 
 Install `jest` globally on your system using npm.
@@ -52,13 +48,12 @@ Now, run the individual test cases by pointing jest to the project folders.
 
 ```shell
 jest anagrams/test.js --watch
+(OR)
 jest fizzbuzz
 ```
 
----
+## Contribute or Contact
 
-## Contact
+If you would like to implement your own algorithms or data structures in Javascript or you want to see me attempt to build the repository, contribute to the repo by **creating a pull request** or contact me at **im.amruth@gmail.com**.
 
-If you would like to implement your own algorithms or data structures in Javascript or you want to see me attempt to build the repository, contribute to the repo by creating a Pull Request or contact me at im.amruth@gmail.com.
-
-Thanks for dropping by!
+**Thanks for dropping by!**
